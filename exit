@@ -1,0 +1,17 @@
+[33mcommit a0b09bff0d2f0fe8f9a850b669ba2ac80cb8b6ee[m
+Author: Andrew Furness <andrewjfurness1999@gmail.com>
+Date:   Thu Jun 30 10:58:54 2016 +0200
+
+    A few changes made to the contact page, finished Lesson 2
+
+[33mcommit fc2b665acff471175261c9a8818c4ef757d5f3c4[m
+Author: Andrew Furness <andrewjfurness1999@gmail.com>
+Date:   Wed Jun 29 15:58:42 2016 +0200
+
+    Lesson 1 and some of most of 2 completed
+
+[33mcommit 9ced537a269061f7870ef3743961bc56b95d37b2[m
+Author: Tomster <tomster@emberjs.com>
+Date:   Wed Jun 29 11:54:14 2016 +0200
+
+    Initial Commit from Ember CLI v2.6.2
